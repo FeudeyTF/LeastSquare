@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "48rjLtP5c6LZw29BFJqzt+j1R/GW83pbkZ0699zBo5w5IG/LNvHLGdjBtAisPpEyIHrp3mAjH5eG7Oukcw0RKg==",
+  "success": true,
+  "projectFilePath": "C:\\VS\\MNK\\MNK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yan\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta1\\mathnet.numerics.6.0.0-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

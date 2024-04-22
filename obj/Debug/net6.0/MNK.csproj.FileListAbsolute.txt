@@ -1,0 +1,17 @@
+C:\VS\MNK\bin\Debug\net6.0\MNK.exe
+C:\VS\MNK\bin\Debug\net6.0\MNK.deps.json
+C:\VS\MNK\bin\Debug\net6.0\MNK.runtimeconfig.json
+C:\VS\MNK\bin\Debug\net6.0\MNK.dll
+C:\VS\MNK\bin\Debug\net6.0\MNK.pdb
+C:\VS\MNK\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\VS\MNK\obj\Debug\net6.0\MNK.csproj.AssemblyReference.cache
+C:\VS\MNK\obj\Debug\net6.0\MNK.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\MNK\obj\Debug\net6.0\MNK.AssemblyInfoInputs.cache
+C:\VS\MNK\obj\Debug\net6.0\MNK.AssemblyInfo.cs
+C:\VS\MNK\obj\Debug\net6.0\MNK.csproj.CoreCompileInputs.cache
+C:\VS\MNK\obj\Debug\net6.0\MNK.csproj.CopyComplete
+C:\VS\MNK\obj\Debug\net6.0\MNK.dll
+C:\VS\MNK\obj\Debug\net6.0\refint\MNK.dll
+C:\VS\MNK\obj\Debug\net6.0\MNK.pdb
+C:\VS\MNK\obj\Debug\net6.0\MNK.genruntimeconfig.cache
+C:\VS\MNK\obj\Debug\net6.0\ref\MNK.dll
